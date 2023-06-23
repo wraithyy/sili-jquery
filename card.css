@@ -58,7 +58,8 @@
   font-size: 0.7em;
 }
 .bottom {
-  align-content: end;
+  display: flex;
+  justify-content: space-between;
 }
 .bottom .left {
   font-weight: 700;
